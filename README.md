@@ -2,7 +2,7 @@
 
 MyBharat is an open-source mobile and web application designed to empower citizens with essential information and services related to India. Whether you're a resident or a visitor, our app is your one-stop destination for everything India has to offer.
 
-NOTE: This is just a demo Readme. It would be of great help if any of you willing to change it according to the project. 😊
+NOTE: This is just a demo Readme. It would be of great help if any of you is willing to change it according to the project. 😊
 ## Features
 
 - **News and Updates:** Stay informed with the latest news, events, and developments happening across India. Get real-time updates on what matters most to you.
