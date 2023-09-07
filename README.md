@@ -15,6 +15,9 @@ Hey! Welcome to the upcoming "MyBharat" app GitHub page. 📱 "MyBharat" is the 
 
 Here are some of the amazing features that will make "MyBharat" the best app for India in the future:
 
+### E-commerce 🛒
+Shop for your favorite products and discover amazing deals right from the app, making your shopping experience convenient and enjoyable!
+
 ### Weather Updates 🌦️
 Stay ahead of the weather with the latest forecast for your city. No more surprises when you step out!
 
