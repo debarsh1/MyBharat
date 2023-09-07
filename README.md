@@ -9,7 +9,8 @@
 
 ## Introduction
 
-Hey! Welcome to the upcoming "MyBharat" app GitHub page. 📱 "MyBharat" is the most anticipated app ever designed for our incredible India. It's like a futuristic Swiss Army Knife for your phone, but even better! This groundbreaking app is being developed to make your lives easier and more exciting, and it's all about India.
+Hey! Welcome to the upcoming "MyBharat" app GitHub page. 📱 
+"MyBharat" is the most anticipated app ever designed for our incredible India. It's like a futuristic Swiss Army Knife for your phone, but even better! This groundbreaking app is being developed to make your lives easier and more exciting, and it's all about India.
 
 ## Planned Features
 
@@ -114,6 +115,7 @@ Access online courses, workshops, and resources to enhance your skills.
 ## Future Development
 
 The development of "MyBharat" is underway, and we're dedicated to bringing you all these incredible features mentioned above. To make it progress even faster and better, we invite genuine contributors from every field to join us on this exciting journey. 
+
 Stay tuned for updates on our GitHub repository, and together, we can make "MyBharat" the ultimate app for India or Bharat! 🚀🇮🇳
 
 ## How to Contribute
