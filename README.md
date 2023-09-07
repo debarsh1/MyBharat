@@ -108,6 +108,9 @@ Access legal advice, tax filing services, and legal document templates.
 ### Cultural Heritage 🏛️: 
 Learn about India's rich cultural heritage with virtual tours of historical sites, museums, and art galleries.
 
+### Job Training and Skill Development 📈: 
+Access online courses, workshops, and resources to enhance your skills.
+
 ## Future Development
 
 The development of "MyBharat" is in progress, and we're working hard to bring you all these fantastic features. Stay tuned for updates on our GitHub repository.
