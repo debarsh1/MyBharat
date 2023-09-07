@@ -10,7 +10,7 @@
 ## Introduction
 
 Hey! Welcome to the upcoming "MyBharat" app GitHub page. 📱 
-"MyBharat" is the most anticipated app ever designed for our incredible India. It's like a futuristic Swiss Army Knife for your phone, but even better! This groundbreaking app is being developed to make your lives easier and more exciting, and it's all about India.
+"MyBharat" is the most anticipated app ever designed for our incredible India. This groundbreaking app is being developed to make your lives easier and more exciting, and it's all about India.
 
 ## Planned Features
 
