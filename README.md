@@ -113,7 +113,8 @@ Access online courses, workshops, and resources to enhance your skills.
 
 ## Future Development
 
-The development of "MyBharat" is in progress, and we're working hard to bring you all these fantastic features. Stay tuned for updates on our GitHub repository.
+The development of "MyBharat" is underway, and we're dedicated to bringing you all these incredible features mentioned above. To make it progress even faster and better, we invite genuine contributors from every field to join us on this exciting journey. 
+Stay tuned for updates on our GitHub repository, and together, we can make "MyBharat" the ultimate app for India or Bharat! 🚀🇮🇳
 
 ## How to Contribute
 
@@ -123,4 +124,4 @@ We'd love your help to make "MyBharat" even better! When the app is officially l
 
 "MyBharat" will be an open-source project, and it will be released under the [MIT License](LICENSE). So, in the future, you'll be free to use, modify, and distribute it!
 
-That's it, future Class 10 pals! Thanks for your interest in "MyBharat." Stay tuned for the official release, and you'll soon be able to download it and experience the awesomeness of this all-in-one app for India. 🇮🇳✨
+Stay tuned for the official release, and you'll soon be able to download it and experience the awesomeness of this all-in-one app for India. 🇮🇳✨
